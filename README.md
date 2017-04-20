@@ -9,6 +9,7 @@ code: https://github.com/olofmogren/c-rnn-gan
 2. TUNING RECURRENT NEURAL NETWORKS WITH REINFORCEMENT LEARNING https://arxiv.org/pdf/1611.02796v2.pdf                     code https://github.com/tensorflow/magenta/tree/master/magenta/models/rl_tuner
 3. Sequence Tutor: Conservative Fine-Tuning of Sequence Generation Models with KL-control https://dam-prod.media.mit.edu/x/2017/02/27/icml-2017-sequence%20%284%29_Tbtdy1q.pdf   
 4. SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient https://arxiv.org/pdf/1609.05473.pdf                   code https://github.com/LantaoYu/SeqGAN
+5. sequence-gan code https://github.com/ofirnachum/sequence_gan
 
 For Discrete distributions 
 1. GANS for Sequences of Discrete Elements with the Gumbel-softmax Distribution https://arxiv.org/pdf/1611.04051.pdf

@@ -19,3 +19,7 @@ For Discrete distributions
 
 Code and Tutorials 
 1. tutorial series on RL using TF - https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0
+
+Forums/Community 
+1. OpenAI Gym - https://gitter.im/openai/gym
+2. Pytorch - https://gitter.im/torch/torch7

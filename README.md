@@ -16,3 +16,6 @@ For Discrete distributions
 2. Boundary-Seeking Generative Adversarial Networks https://arxiv.org/abs/1702.08431
 3. Maximum-Likelihood Augmented Discrete Generative Adversarial Networks https://arxiv.org/pdf/1702.07983v1.pdf
 
+
+Code and Tutorials 
+1. tutorial series on RL using TF - https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0

@@ -23,3 +23,9 @@ Code and Tutorials
 Forums/Community 
 1. OpenAI Gym - https://gitter.im/openai/gym
 2. Pytorch - https://gitter.im/torch/torch7
+
+==================================================================================================
+For English Parse Rules 
+1. You might start by pulling out the most common productions from the Penn Treebank or similar corpus.  Here is a little gist to do that in NLTK:  https://gist.github.com/leebecker/95bc468d486878ef300ff1ba82652ccd
+2. Treebanking guidelines for parse rules https://clear.colorado.edu/compsem/documents/treebank_guidelines.pdf http://cs.jhu.edu/~jason/465/hw-parse/treebank-manual.pdf
+

@@ -36,7 +36,7 @@ Tensorflow Language Model
 - Penn Tree Bank - https://www.tensorflow.org/tutorials/recurrent#language_modeling & https://github.com/tensorflow/models/tree/master/tutorials/rnn/ptb
 
 Questions -
-1. When use Policy gradient over Q-learning for text? 
-Refer Sec 3. [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/pdf/1606.01541.pdf)
+1. When use Policy gradient over Q-learning for text?  
 
+Refer Sec 3. [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/pdf/1606.01541.pdf)
 Paper using DQN [Generating Text with Deep Reinforcement Learning](https://arxiv.org/pdf/1510.09202.pdf)
